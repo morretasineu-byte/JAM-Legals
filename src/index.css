@@ -1,0 +1,87 @@
+@import "@fontsource/cinzel/400.css";
+@import "@fontsource/cinzel/600.css";
+@import "@fontsource/cinzel/700.css";
+@import "@fontsource/plus-jakarta-sans/400.css";
+@import "@fontsource/plus-jakarta-sans/500.css";
+@import "@fontsource/plus-jakarta-sans/600.css";
+@import "@fontsource/plus-jakarta-sans/700.css";
+@import "tailwindcss";
+
+@theme {
+  --font-cinzel: "Cinzel", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --color-cream: #FBFBF9;
+  --color-surface: #F8F7F4;
+  --color-surface-muted: #EFECE6;
+  --color-border-subtle: #E7E2D8;
+  --color-anthracite: #1C1917;
+  --color-stone-muted: #57534E;
+  --color-stone-subtle: #78716C;
+  --color-terracotta: #8C3A18;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  font-family: var(--font-sans);
+  background-color: #FBFBF9;
+  color: #1C1917;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #FBFBF9;
+  color: #1C1917;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Tipografia Cinzel */
+.font-cinzel {
+  font-family: var(--font-cinzel);
+}
+
+/* Full d'estil d'impressió net */
+@media print {
+  header,
+  footer,
+  .no-print {
+    display: none !important;
+  }
+  
+  body, html {
+    background: #FFFFFF !important;
+    color: #000000 !important;
+    font-size: 11pt !important;
+    line-height: 1.5 !important;
+  }
+
+  main {
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 100% !important;
+  }
+
+  a {
+    color: #000000 !important;
+    text-decoration: underline !important;
+  }
+
+  table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  th, td {
+    border: 1px solid #CCCCCC !important;
+    padding: 6px 8px !important;
+    color: #000000 !important;
+    background: transparent !important;
+  }
+}

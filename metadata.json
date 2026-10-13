@@ -1,0 +1,6 @@
+{
+  "name": "SELLATS JAM — Textos Legals",
+  "description": "Lloc web estàtic i minimalista que conté els textos legals bilingües (català / castellà) de SELLATS JAM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
