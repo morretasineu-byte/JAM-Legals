@@ -42,7 +42,7 @@ Facilitar los datos marcados con asterisco en el formulario es necesario para po
 
 ## 5. ¿Cuánto tiempo los conservamos?
 
-- Consultas que no llegan a ser un servicio: **[VALIDAR: 12 meses]** desde la última interacción, y después se suprimen.
+- Consultas que no llegan a ser un servicio: **12 meses** desde la última interacción, y después se suprimen.
 - Si se contrata un servicio: durante la relación y, después, durante los plazos exigidos por la ley (por ejemplo, obligaciones fiscales y mercantiles), bloqueados y solo a disposición de las autoridades competentes.
 
 ## 6. ¿A quién se comunican los datos?
@@ -55,13 +55,12 @@ No vendemos ni cedemos tus datos a terceros para sus propios fines. Pueden acced
 | Google LLC (Gmail) | Correo electrónico | Mensajes y datos de contacto |
 | Meta Platforms Ireland / WhatsApp | Mensajería WhatsApp | Los datos y mensajes que nos envíes por WhatsApp |
 | Vercel Inc. | Alojamiento del sitio web principal y de estas páginas legales | Datos técnicos de navegación |
-| [COMPLETAR si existe: gestoría o asesoría fiscal] | Contabilidad y facturación | Datos de facturación de los clientes |
 
 También se pueden comunicar datos a administraciones públicas y autoridades cuando la ley lo exija.
 
 ## 7. ¿Se hacen transferencias internacionales?
 
-Algunos de estos proveedores, como Airtable, Google, Meta y Vercel, tratan datos en Estados Unidos. Estas transferencias se realizan con garantías adecuadas, como las cláusulas contractuales tipo de la Comisión Europea o la adhesión del proveedor al Marco de Privacidad de Datos UE-EE. UU. [VERIFICAR el mecanismo de cada proveedor y la firma del DPA con Airtable]. Puedes solicitarnos más información sobre estas garantías escribiendo a sellatsjam@gmail.com.
+Algunos de estos proveedores, como Airtable, Google, Meta y Vercel, pueden tratar datos en Estados Unidos. Estas transferencias se realizan con las garantías que prevé el RGPD, como las cláusulas contractuales tipo de la Comisión Europea o, según el proveedor, la adhesión al Marco de Privacidad de Datos UE-EE. UU. Puedes solicitarnos más información sobre estas garantías escribiendo a sellatsjam@gmail.com.
 
 ## 8. ¿Qué derechos tienes?
 

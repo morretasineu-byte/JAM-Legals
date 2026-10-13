@@ -42,7 +42,7 @@ Facilitar les dades marcades amb asterisc al formulari és necessari per poder r
 
 ## 5. Quant de temps les conservam?
 
-- Consultes que no arriben a ser un servei: **[VALIDAR: 12 mesos]** des de l'última interacció, i després se suprimeixen.
+- Consultes que no arriben a ser un servei: **12 mesos** des de l'última interacció, i després se suprimeixen.
 - Si es contracta un servei: durant la relació i, després, durant els terminis exigits per la llei (per exemple, obligacions fiscals i mercantils), bloquejades i només a disposició de les autoritats competents.
 
 ## 6. A qui es comuniquen les dades?
@@ -55,13 +55,12 @@ No venem ni cedim les vostres dades a tercers per a finalitats pròpies d'ells. 
 | Google LLC (Gmail) | Correu electrònic | Missatges i dades de contacte |
 | Meta Platforms Ireland / WhatsApp | Missatgeria WhatsApp | Les dades i els missatges que ens envieu per WhatsApp |
 | Vercel Inc. | Allotjament del lloc web principal i d'aquestes pàgines legals | Dades tècniques de navegació |
-| [COMPLETAR si n'hi ha: gestoria o assessoria fiscal] | Comptabilitat i facturació | Dades de facturació dels clients |
 
 També es poden comunicar dades a administracions públiques i autoritats quan la llei ho exigeixi.
 
 ## 7. Es fan transferències internacionals?
 
-Alguns d'aquests proveïdors, com ara Airtable, Google, Meta i Vercel, tracten dades als Estats Units. Aquestes transferències es fan amb garanties adequades, com ara les clàusules contractuals tipus de la Comissió Europea o l'adhesió del proveïdor al Marc de Privacitat de Dades UE-EUA [VERIFICAR el mecanisme de cada proveïdor i la signatura del DPA amb Airtable]. Podeu demanar-nos més informació sobre aquestes garanties escrivint a sellatsjam@gmail.com.
+Alguns d'aquests proveïdors, com ara Airtable, Google, Meta i Vercel, poden tractar dades als Estats Units. Aquestes transferències es fan amb les garanties que preveu el RGPD, com ara les clàusules contractuals tipus de la Comissió Europea o, segons el proveïdor, l'adhesió al Marc de Privacitat de Dades UE-EUA. Podeu demanar-nos més informació sobre aquestes garanties escrivint a sellatsjam@gmail.com.
 
 ## 8. Quins drets teniu?
 

@@ -28,7 +28,7 @@ L'accés al lloc web és gratuït i atribueix la condició d'usuari. L'usuari es
 
 Els textos, el disseny, el logotip, la marca SELLATS JAM i la resta de continguts d'aquest lloc web són titularitat de Joan Albert Moragues Medrano o s'utilitzen amb autorització. No es poden reproduir, distribuir ni transformar sense permís previ i exprés, excepte per a l'ús personal permès per la llei.
 
-Algunes imatges del web són il·lustratives i no representen necessàriament treballs executats per SELLATS JAM [CONFIRMAR segons el material gràfic final].
+Algunes imatges del web són il·lustratives i no representen necessàriament treballs executats per SELLATS JAM.
 
 ## 5. Responsabilitat
 
