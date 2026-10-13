@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://legal.sellatsjam.com/ca/avis-legal</loc>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://legal.sellatsjam.com/ca/avis-legal"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://legal.sellatsjam.com/es/aviso-legal"/>
+    <loc>https://jamlegals.vercel.app/ca/avis-legal</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://jamlegals.vercel.app/ca/avis-legal"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jamlegals.vercel.app/es/aviso-legal"/>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://legal.sellatsjam.com/ca/politica-de-privacitat</loc>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://legal.sellatsjam.com/ca/politica-de-privacitat"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://legal.sellatsjam.com/es/politica-de-privacidad"/>
+    <loc>https://jamlegals.vercel.app/ca/politica-de-privacitat</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://jamlegals.vercel.app/ca/politica-de-privacitat"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jamlegals.vercel.app/es/politica-de-privacidad"/>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://legal.sellatsjam.com/ca/politica-de-galetes</loc>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://legal.sellatsjam.com/ca/politica-de-galetes"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://legal.sellatsjam.com/es/politica-de-cookies"/>
+    <loc>https://jamlegals.vercel.app/ca/politica-de-galetes</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://jamlegals.vercel.app/ca/politica-de-galetes"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jamlegals.vercel.app/es/politica-de-cookies"/>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://legal.sellatsjam.com/es/aviso-legal</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://legal.sellatsjam.com/es/aviso-legal"/>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://legal.sellatsjam.com/ca/avis-legal"/>
+    <loc>https://jamlegals.vercel.app/es/aviso-legal</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jamlegals.vercel.app/es/aviso-legal"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://jamlegals.vercel.app/ca/avis-legal"/>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://legal.sellatsjam.com/es/politica-de-privacidad</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://legal.sellatsjam.com/es/politica-de-privacidad"/>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://legal.sellatsjam.com/ca/politica-de-privacitat"/>
+    <loc>https://jamlegals.vercel.app/es/politica-de-privacidad</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jamlegals.vercel.app/es/politica-de-privacidad"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://jamlegals.vercel.app/ca/politica-de-privacitat"/>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://legal.sellatsjam.com/es/politica-de-cookies</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://legal.sellatsjam.com/es/politica-de-cookies"/>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://legal.sellatsjam.com/ca/politica-de-galetes"/>
+    <loc>https://jamlegals.vercel.app/es/politica-de-cookies</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jamlegals.vercel.app/es/politica-de-cookies"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://jamlegals.vercel.app/ca/politica-de-galetes"/>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>

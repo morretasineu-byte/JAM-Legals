@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://legal.sellatsjam.com/sitemap.xml
+Sitemap: https://jamlegals.vercel.app/sitemap.xml

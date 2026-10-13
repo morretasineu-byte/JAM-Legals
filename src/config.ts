@@ -4,5 +4,5 @@
  * han de provenir d'aquest fitxer per facilitar canvis futurs de domini.
  */
 
-export const SITE_URL = 'https://legal.sellatsjam.com';
+export const SITE_URL = 'https://jamlegals.vercel.app';
 export const MAIN_SITE_URL = 'https://sellatsjam.com';

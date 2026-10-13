@@ -40,11 +40,11 @@ El web conté enllaços a serveis de tercers, com ara WhatsApp. El titular no co
 
 ## 7. Protecció de dades i galetes
 
-El tractament de dades personals es regula a la [Política de privacitat]. L'ús de galetes i tecnologies similars s'explica a la [Política de galetes].
+El tractament de dades personals es regula a la [Política de privacitat](/ca/politica-de-privacitat). L'ús de galetes i tecnologies similars s'explica a la [Política de galetes](/ca/politica-de-galetes).
 
 ## 8. Legislació aplicable i jurisdicció
 
-Aquest avís es regeix per la legislació espanyola. Si l'usuari és consumidor, són competents els jutjats i tribunals que la normativa de consumidors estableixi. En la resta de casos, les parts se sotmeten als jutjats i tribunals de [VALIDAR: partit judicial].
+Aquest avís es regeix per la legislació espanyola. Si l'usuari és consumidor, són competents els jutjats i tribunals que la normativa de consumidors estableixi. En la resta de casos, les parts se sotmeten als jutjats i tribunals del domicili del titular.
 
 ## 9. Modificacions
 

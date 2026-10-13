@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
@@ -50,16 +51,28 @@ export const LegalContent: React.FC<LegalContentProps> = ({ content }) => {
           hr: () => (
             <hr className="my-10 border-0 border-t border-[#E7E2D8]" />
           ),
-          a: ({ href, children }) => (
-            <a
-              href={href}
-              className="text-[#8C3A18] underline underline-offset-2 hover:text-[#1C1917] transition-colors focus-visible:outline-2 focus-visible:outline-[#8C3A18] rounded-xs"
-              target={href?.startsWith('http') ? '_blank' : undefined}
-              rel={href?.startsWith('http') ? 'noopener noreferrer' : undefined}
-            >
-              {children}
-            </a>
-          ),
+          a: ({ href, children }) => {
+            if (href?.startsWith('/')) {
+              return (
+                <Link
+                  to={href}
+                  className="text-[#8C3A18] underline underline-offset-2 hover:text-[#1C1917] transition-colors focus-visible:outline-2 focus-visible:outline-[#8C3A18] rounded-xs"
+                >
+                  {children}
+                </Link>
+              );
+            }
+            return (
+              <a
+                href={href}
+                className="text-[#8C3A18] underline underline-offset-2 hover:text-[#1C1917] transition-colors focus-visible:outline-2 focus-visible:outline-[#8C3A18] rounded-xs"
+                target={href?.startsWith('http') ? '_blank' : undefined}
+                rel={href?.startsWith('http') ? 'noopener noreferrer' : undefined}
+              >
+                {children}
+              </a>
+            );
+          },
           strong: ({ children }) => (
             <strong className="font-semibold text-[#1C1917]">
               {children}

@@ -40,11 +40,11 @@ La web contiene enlaces a servicios de terceros, como WhatsApp. El titular no co
 
 ## 7. Protección de datos y cookies
 
-El tratamiento de datos personales se regula en la [Política de privacidad]. El uso de cookies y tecnologías similares se explica en la [Política de cookies].
+El tratamiento de datos personales se regula en la [Política de privacidad](/es/politica-de-privacidad). El uso de cookies y tecnologías similares se explica en la [Política de cookies](/es/politica-de-cookies).
 
 ## 8. Legislación aplicable y jurisdicción
 
-Este aviso se rige por la legislación española. Si el usuario es consumidor, son competentes los juzgados y tribunales que establezca la normativa de consumidores. En los demás casos, las partes se someten a los juzgados y tribunales de [VALIDAR: partido judicial].
+Este aviso se rige por la legislación española. Si el usuario es consumidor, son competentes los juzgados y tribunales que establezca la normativa de consumidores. En los demás casos, las partes se someten a los juzgados y tribunales del domicilio del titular.
 
 ## 9. Modificaciones
 
