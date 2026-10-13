@@ -13,7 +13,6 @@ Aquest web **no utilitza galetes d'analítica, de publicitat ni de seguiment**, 
 | Nom | Titular | Finalitat | Durada |
 |---|---|---|---|
 | sellats_jam_lang | Propi | Recordar l'idioma triat (català o castellà) | Fins que l'elimineu |
-| sellats_cookie_consent | Propi | Recordar que heu vist l'avís de galetes [ELIMINAR aquesta fila si s'elimina el bàner] | Fins que l'elimineu |
 
 Aquestes dades estan exemptes del deure d'obtenir consentiment (art. 22.2 de la LSSI) perquè són imprescindibles per prestar el servei sol·licitat per l'usuari o per recordar-ne una preferència d'interfície.
 

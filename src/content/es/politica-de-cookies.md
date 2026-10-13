@@ -13,7 +13,6 @@ Esta web **no utiliza cookies de analítica, publicidad ni seguimiento**, ni car
 | Nombre | Titular | Finalidad | Duración |
 |---|---|---|---|
 | sellats_jam_lang | Propio | Recordar el idioma elegido (catalán o castellano) | Hasta que lo elimines |
-| sellats_cookie_consent | Propio | Recordar que has visto el aviso de cookies [ELIMINAR esta fila si se elimina el banner] | Hasta que lo elimines |
 
 Estos datos están exentos del deber de obtener consentimiento (art. 22.2 de la LSSI) porque son imprescindibles para prestar el servicio solicitado por el usuario o para recordar una preferencia de interfaz.
 
